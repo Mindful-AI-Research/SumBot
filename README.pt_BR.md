@@ -62,18 +62,40 @@ https://github.com/user-attachments/assets/1d0054ce-085c-41c9-b445-110c653086ea
 - [Licença](#licenca)
  
 
-## 📝 Introdução
+## 📝 [Introdução]()
 
-Bem-vindo ao **SumBot FreeCode**, um chatbot alimentado por IA que transforma textos longos em resumos concisos, tornando a comunicação mais eficiente. Desenvolvido com **GPT-3.5 Turbo** e integrado a plataformas como **Slack**, é a ferramenta perfeita para gerenciar sobrecarga de informações, seja em ambientes empresariais ou acadêmicos.
+SumBot FreeCode é um projeto de aplicação de inteligência artificial generativa à sumarização de mensagens no Slack. A implementação documentada integra a API da OpenAI, com o modelo GPT-3.5 Turbo, a um fluxo de automação no Zapier.
+
+A solução permite solicitar o resumo de uma mensagem por meio de uma reação com o emoji `:bowtie:` e receber a resposta na mesma thread da mensagem original.
+
+O projeto explora uma abordagem no-code para integrar ferramentas de inteligência artificial e automação, com documentação e demonstrações do fluxo de funcionamento.
+
+<br><br>
+
+## [Autoria]()
+
+Desenvolvido por [Fabiana Campanari](https://github.com/FabianaCampanari).
+
+### Problema e justificativa
+
+O projeto parte do desafio de acompanhar mensagens extensas em ambientes de comunicação digital. Sua proposta é facilitar o acesso às informações centrais sem exigir que o usuário saia do Slack.
+
+Para isso, utiliza uma interação familiar à plataforma — a reação com um emoji — como gatilho para solicitar a sumarização.
+
+<br><br>
 
 
-## 🌟 Recursos
+
+## 🌟 [Recursos]()
 
 - **Resumo Automatizado**: Resume textos longos usando GPT-3.5 Turbo.
 - **Integração com Slack**: Automatiza tarefas dentro do Slack.
 - **Gatilhos Personalizados**: Resumo acionado por reações de emoji bowtie :bowtie:.
 - **Workflow Zapier**: Conecte-se com várias ferramentas para automação sem esforço.
 - **Sem Necessidade de Programação**: Fácil de usar para todos, independentemente de conhecimento técnico.
+
+<br>
+
 
 
 ## 🤔 Objetivo
