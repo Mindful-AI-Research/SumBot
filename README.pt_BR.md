@@ -76,7 +76,9 @@ O projeto explora uma abordagem no-code para integrar ferramentas de inteligênc
 
 Desenvolvido por [Fabiana Campanari](https://github.com/FabianaCampanari).
 
-### Problema e justificativa
+<br><br>
+
+## [Problema e justificativa]()
 
 O projeto parte do desafio de acompanhar mensagens extensas em ambientes de comunicação digital. Sua proposta é facilitar o acesso às informações centrais sem exigir que o usuário saia do Slack.
 
@@ -94,14 +96,27 @@ Para isso, utiliza uma interação familiar à plataforma — a reação com um 
 - **Workflow Zapier**: Conecte-se com várias ferramentas para automação sem esforço.
 - **Sem Necessidade de Programação**: Fácil de usar para todos, independentemente de conhecimento técnico.
 
-<br>
+<br><br>
 
 
 
-## 🤔 Objetivo
 
-O objetivo do **SumBot FreeCode** é simples: **gerenciar a sobrecarga de informações**. Ao resumir automaticamente textos longos, ele economiza tempo e aumenta a produtividade em várias plataformas, desde relatórios empresariais até trabalhos acadêmicos.
+## 🎯 [Objetivo Geral]()
 
+
+Desenvolver e demonstrar um fluxo automatizado de sumarização de mensagens no Slack, integrando um modelo de linguagem a ferramentas de automação.
+
+A proposta tem como objetivo reduzir o tempo dedicado à leitura de mensagens extensas. A verificação desse benefício depende de avaliação com usuários e medições específicas.
+
+<br><br>
+
+## 📌 Objetivos específicos
+
+- Integrar Slack, Zapier e a API da OpenAI.
+- Configurar o acionamento da sumarização por uma reação com o emoji `:bowtie:`.
+- Retornar o resumo na mesma thread da mensagem original.
+- Documentar a configuração e o funcionamento da integração.
+- Explorar o potencial de uma abordagem no-code para aplicações de inteligência artificial.
 
 ## 💭 Visão
 
